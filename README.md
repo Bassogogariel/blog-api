@@ -14,7 +14,7 @@ API REST complète de gestion d'articles de blog, développée avec **Node.js**,
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/votre-username/blog-api.git
+[git clone (https://github.com/Bassogogariel/blog-api/tree/main)
 cd blog-api
 
 # 2. Installer les dépendances
